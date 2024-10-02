@@ -1,5 +1,5 @@
 ## ParaMeuCurriculo 
-<img src = "vogal funcionando.png" alt = "Print Funcionando"
+<img src = "vogal funcionando.png" alt = "Print Funcionando">
 ## O que foi utilizado:
 Foi utilizado o sistema Console para entrada e saída de dados e o método Char.ToLower para garantir que a verificação funcione para letras maiúsculas e minúsculas.
         
